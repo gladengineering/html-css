@@ -1,0 +1,17 @@
+*{
+    margin: 10;
+    padding: 20;
+}
+body{
+    background-color: #0D1B2A;
+}
+strong{
+    color: #6B2D7B;
+}
+h1{
+    color:#6B2D7B;
+    margin-bottom: 10px;
+}
+p{
+    color: #FAFBFC;
+}
